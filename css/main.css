@@ -1,0 +1,11 @@
+.headbar{
+    margin-bottom: 0;
+    background-color: #4dc47d !important;
+    padding: 20px 0 
+}
+.headbar a{
+    color: #ffffff;
+}
+.inputClass{
+    text-align: left !important;
+}

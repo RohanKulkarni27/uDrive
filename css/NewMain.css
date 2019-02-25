@@ -1,0 +1,34 @@
+.image,.details{
+    float:left;
+    height:24vh;
+}
+.image{
+    border-right: solid 1px #cccccc;
+}
+.details{
+    width:60%;
+
+}
+.cards{
+    width:100%;
+    height:24vh;
+    border:solid 1px #cccccc;
+    margin-top:10px;
+    box-shadow: 2px 2px 2px #cccccc;
+}
+.carname{
+    text-align: center;
+}
+.carname span{
+    font-size:32px;
+}
+.otherdetails{
+    text-align: left;
+}
+.otherdetails span{
+    font-size: 20px;
+}
+.btnClass{
+    margin:0px !important;
+    text-align: left;
+}
